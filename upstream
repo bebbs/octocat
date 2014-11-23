@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote is used to push local changes 'upstream', to the main repository on github. This helps ensure that every contributor is working from the most up to date code.
