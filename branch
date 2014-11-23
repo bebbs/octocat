@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branches are version-controlled folders enabling you to work on features and ideas without affecting the central 'master' code. Each branch can be merged into the master by submitting a pull request.
