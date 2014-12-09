@@ -1,1 +1,1 @@
-The upstream remote is used to push local changes 'upstream', to the main repository on github. This helps ensure that every contributor is working from the most up to date code.
+If you clone a repository, you are then 'downstream' of the origin/master repository because the data has 'flowed' down to you, from the origin/master repository, to your own master repository, to your own local repository. It follows that 'upstream' represents any repository ahead of yours in that chain.
